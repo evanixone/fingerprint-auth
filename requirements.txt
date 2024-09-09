@@ -1,0 +1,14 @@
+django
+django-extensions
+psycopg[binary]
+Pillow
+adafruit-circuitpython-fingerprint
+numpy
+scikit-image
+opencv-python
+matplotlib
+PyOpenGL
+requests
+graphviz
+cryptography
+pypiqe
